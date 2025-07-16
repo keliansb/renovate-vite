@@ -5,7 +5,7 @@
     "group:vite"
   ],
   "ignorePresets": ["docker:pinDigests"],
-  "repositories": ["keliansb/renovate-vite"],
+  "repositories": ["keliansb/renovate-vite-ungrouped"],
   "platform": "github",
   "prConcurrentLimit": 50,
   "prHourlyLimit": 20,
