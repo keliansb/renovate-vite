@@ -4,5 +4,6 @@
     "config:best-practices",
     "group:vite"
   ],
+  "repositories": ["keliansb/renovate-vite"],
   "platform": "github"
 }
